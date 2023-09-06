@@ -1,0 +1,1 @@
+Lancer Version1(ocr_uniquement), sans dépendance avec fonctio_dp.py et PL_FINAL.py
